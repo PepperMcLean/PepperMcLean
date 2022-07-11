@@ -64,13 +64,24 @@
     >
     </img>
     <img 
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white"
         alt="postgresql"
     >
     </img>
 </p>
 
-
-
+<h3>Currently Learning:</h3>
+<p align="left" style="pointer-events: none">
+    <img 
+        src="https://img.shields.io/badge/C%23-483285?style=for-the-badge&logo=CSharp&logoColor=white"
+        alt="postgresql"
+    >
+    </img>
+    <img 
+        src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.NET&logoColor=white"
+        alt="postgresql"
+    >
+    </img>
+</p>
 
 
